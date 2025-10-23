@@ -1,0 +1,1 @@
+Side project and challenges of deep learning from Images, Audio, Video and Text using python.
